@@ -1,16 +1,4 @@
-# flutter_list_view
-
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (9)](https://github.com/user-attachments/assets/ecb5a32f-1cda-4b2e-a8c5-edddb86c8e67)
+![Screenshot (10)](https://github.com/user-attachments/assets/b6784bc3-fdb3-4c7d-87c1-3954347c893e)
